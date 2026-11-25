@@ -48,4 +48,3 @@ GitHub 仓库用于展示和分享源码，不会自动把这个本机应用变�
 .\.venv\Scripts\python.exe -m unittest discover -s tests
 ```
 
-本仓库目前未附加开源许可证。公开展示代码并不自动授予他人复制或修改代码的许可；正式开放复用前需选择并添加许可证。
