@@ -1,0 +1,17 @@
+[server]
+address = "127.0.0.1"
+port = 8501
+headless = false
+showEmailPrompt = false
+runOnSave = true
+fileWatcherType = "watchdog"
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+primaryColor = "#5f8b50"
+backgroundColor = "#f5edda"
+secondaryBackgroundColor = "#fff9ea"
+textColor = "#294534"
+font = "sans serif"

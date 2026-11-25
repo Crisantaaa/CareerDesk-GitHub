@@ -1,0 +1,17 @@
+# Public release uses an allowlist. Review every new path before adding it.
+*
+!/.gitignore
+!/README.md
+!/app.py
+!/requirements.txt
+!/requirements-lock.txt
+!/start_careerdesk.cmd
+!/launch_careerdesk_silent.vbs
+!/.streamlit/
+!/.streamlit/config.toml
+!/careerdesk/
+!/careerdesk/*.py
+!/tests/
+!/tests/*.py
+!/assets/
+!/assets/careerdesk_gong.ico
